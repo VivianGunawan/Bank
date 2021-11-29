@@ -1,3 +1,3 @@
 # Bank
 
-Object Oreinted Design for an Online Banking Application
+Object Oriented Design for an Online Banking Application
